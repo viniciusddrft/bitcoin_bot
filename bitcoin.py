@@ -6,7 +6,7 @@ import websocket
 
 
 def vender():
-    pass
+    return None
 
 
 def comprar():
